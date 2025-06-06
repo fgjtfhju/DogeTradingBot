@@ -1,5 +1,4 @@
 python-binance
 websockets
-pytz
-dateparser
-aiohttp
+smtplib
+email-validator
