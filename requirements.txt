@@ -1,4 +1,4 @@
 python-binance
 websockets
-smtplib
+
 email-validator
