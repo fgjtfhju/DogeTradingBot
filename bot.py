@@ -48,6 +48,7 @@ while True:
         else:
             log("Ingen handling. Overvåker markedet.")
 
+        
         time.sleep(60)
 
     except Exception as e:
